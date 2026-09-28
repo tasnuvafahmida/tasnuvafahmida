@@ -227,17 +227,17 @@ Full-Stack Development → Real-World Applications → Continuous Growth
 
 <div align="center">
 
-<img
+<!-- <img
   src="https://github-readme-stats.vercel.app/api?username=tasnuvafahmida&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
   height="180"
   alt="GitHub Statistics"
-/>
+/> -->
 
-<img
+<!-- <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasnuvafahmida&layout=compact&theme=tokyonight&hide_border=true"
   height="180"
   alt="Top Languages"
-/>
+/> -->
 
 </div>
 
